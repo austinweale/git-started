@@ -1,0 +1,62 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #e9f4e7;
+	font-family: "Helvetica", sans-serif;
+	margin-bottom: 10px;
+}
+
+h1 {
+	padding: 10px;
+	padding-top: 20px;
+	background-image: url("images/rickmory.jpg");
+	color: white;
+	text-align: center;
+	margin: 0px;
+	font-size: 70pt;
+	background-position: 0px -380px;
+	text-shadow: 3px 3px black;
+}
+
+#content {
+	border-radius: 5px;
+	width: 80%;
+	padding: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: white;
+	margin: auto;
+	margin-top: 50px;
+	overflow: hidden;
+	text-align: center;
+}
+
+h2 {
+	margin-top: 10px;
+	text-align: center;
+	font-size: 48pt;
+	margin-bottom: 10px;
+}
+
+#imgbox {
+	float: left;
+	width: 300px;
+}
+
+#content img, #content p {
+	max-width: 50%;
+}
+
+p{
+	text-indent: 25px;
+	text-align: left;
+	margin: auto;
+}
+
+img {
+	margin-bottom: 10px;
+}
+
+h2, p, h3 {
+	color: #3b3c3b;
+}
